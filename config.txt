@@ -1,0 +1,6 @@
+owner=424989134298415105
+prefix=Re
+game=Replay
+stayinchannel=true
+songinstatus=true
+token=NTk0NDUyNzU3MTM0NTczNTg3.XRcpgw.Z0QkKUllOWlgZaA6YVRl99WF3-U
